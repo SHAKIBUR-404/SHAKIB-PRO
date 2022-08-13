@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> []</h1>
+<h1 align="center"> [INSTALL]</h1>
 
 <h2 align="center">  SHAKIB-PRO TOOL </h2>
 
