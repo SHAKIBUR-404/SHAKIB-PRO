@@ -19,7 +19,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf Random`
+- `rm -rf SHAKIB-PRO`
 - `git clone https://github.com/Shakibur-Cyber-King/SHAKIB-PRO`
 - `cd SHAKIB-PRO`
 - `python Lover.py`
