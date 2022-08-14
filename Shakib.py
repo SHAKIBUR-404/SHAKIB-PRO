@@ -8,12 +8,12 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from HBF import login
+    from Pro import login
 
     login()
 
-elif bit == '32bit':
 
-    from HBF32 import login
 
-    login()
+
+
+
