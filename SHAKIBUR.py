@@ -10,7 +10,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from K import main
+    from K import main_apv
 
     main_apv()
 
