@@ -22,7 +22,7 @@
 - `rm -rf SHAKIB-PRO`
 - `git clone https://github.com/Shakibur-Cyber-King/SHAKIB-PRO`
 - `cd SHAKIB-PRO`
-- `python KING.py`
+- `python SHAKIBUR.py`
      
 
  ```This Tools is Paid ```</br>
