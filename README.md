@@ -20,7 +20,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf SHAKIB-PRO`
-- `git clone https://github.com/Shakibur-Cyber-King/SHAKIB-PRO`
+- `git clone https://github.com/SHAKIBUR-404/SHAKIB-PRO`
 - `cd SHAKIB-PRO`
 - `python Shakib.py`
      
