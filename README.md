@@ -25,5 +25,5 @@
 - `python Shakib.py`
      
 
- ```This Tools is Paid ```</br>
+ ```This Tools is Free ```</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-SHAKIBUR-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801908735166)
