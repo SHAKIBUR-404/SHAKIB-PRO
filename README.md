@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Shakibur-Cyber-King-dimgray?style=flat-square&logo=github)](https://github.com/Shakibur-cyber-king )<br> [![Facebook](https://img.shields.io/badge/Facebook-Shakibur-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SHAKIBUR-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801908735166)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-SHAKIBUR-404-dimgray?style=flat-square&logo=github)](https://github.com/SHAKIBUR-404 )<br> [![Facebook](https://img.shields.io/badge/Facebook-Shakibur-blue?style=flat-square&logo=facebook)](https://www.facebook.com/unavailable.this.link)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-SHAKIBUR-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801908735166)
 
 
 
